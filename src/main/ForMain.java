@@ -47,9 +47,6 @@ public class ForMain {
             }
         } while (choice!=0);
 
-        System.out.println("바보");
-        System.out.println("args = " + Arrays.deepToString(args));
-        System.out.println("forProcess = " + forProcess);
     }
 
 }
